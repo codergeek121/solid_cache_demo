@@ -19,3 +19,8 @@ $ bin/rails dev:cache
 ```sh
 $ bin/rails server
 ```
+
+## Demo
+
+* [read](http://localhost:3000)  
+* [read multi](http://localhost:3000/multi)  
