@@ -13,3 +13,9 @@ $ bin/setup
 ```sh
 $ bin/rails dev:cache
 ```
+
+3. Start server
+
+```sh
+$ bin/rails server
+```
