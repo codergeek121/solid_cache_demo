@@ -1,0 +1,9 @@
+<h1>Articles - read</h1>
+
+<div id="articles">
+  <% @articles.each do |article| %>
+    <% cache article do %>
+      <%= render article %>
+    <% end %>
+  <% end %>
+</div>
